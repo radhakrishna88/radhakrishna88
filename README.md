@@ -1,6 +1,6 @@
-# Automation Tester Profile
+# Hi I'm Radhakrishnan welcome to my git profile!
 
-## Summary
+## About me
 Experienced Automation Tester with proficiency in Java, TestNG, Selenium, JUnit5, Cucumber, HTML, CSS, Python, JavaScript, Jenkins, Apache POI, Rest Assured, and Swagger. Proven ability to develop robust automation frameworks and conduct comprehensive testing for web applications.
 
 ## Skills
